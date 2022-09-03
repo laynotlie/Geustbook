@@ -25,3 +25,5 @@ Referensi Video
 ============
 
 [![Contoh Penggunaan Socket.io dan Yii Framework 2](https://img.youtube.com/vi/xgwahZjaAlI/0.jpg)](https://www.youtube.com/watch?v=xgwahZjaAlI "Contoh Penggunaan Socket.io dan Yii Framework 2")
+
+Terima Kasih
